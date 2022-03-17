@@ -6,16 +6,16 @@ function Navbar() {
         <>
             <Nav>
                 <NavMenu>
-                    <NavLink to='/about' activeStyle>
+                    <NavLink to='/about'>
                         О нас
                     </NavLink>
-                    <NavLink to='/contact' activeStyle>
+                    <NavLink to='/contact'>
                         Связь с нами
                     </NavLink>
-                    <NavLink to='/real-estate' activeStyle>
+                    <NavLink to='/real-estate'>
                         Недвижимость
                     </NavLink>
-                    <NavLink to='/sign-up' activeStyle>
+                    <NavLink to='/sign-up'>
                         Войти
                     </NavLink>
                 </NavMenu>
